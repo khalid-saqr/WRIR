@@ -88,4 +88,4 @@ The execution of the notebook yields the following artifacts:
 
 If you use this code or data in your research, please cite the accompanying paper:
 
-> Khalid Saqr, "Impact of generative AI on research integrity: Retraction behavior across countries and institutions." (2026).
+> Khalid Saqr, "Dissecting AI-related Paper Retraction Across Countries and Institutions" (2026).
