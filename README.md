@@ -22,12 +22,13 @@ The following Python packages are required:
 
 ```bash
 pip install pandas requests tqdm itables folium geopandas pycountry shapely plotly
+```
 
 ## 📂 Input Data
 
 The pipeline requires the **Retraction Watch Database** dataset.
 
-1. Obtain the dataset (CSV format) from Crossref or the official Retraction Watch source.
+1. Obtain the dataset (CSV format) from Crossref or the official Retraction Watch source, download URL: https://gitlab.com/crossref/retraction-watch-data.
 2. Rename the file to `retraction_watch.csv` (or update the `RW_PATH` variable in the notebook).
 3. Upload the CSV to the runtime environment.
 
