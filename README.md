@@ -1,6 +1,6 @@
 # WRIR | World Research Integrity Ranking
 
-This repository contains the source code and documentation for the **World Ranking of Research Integrity (WRIR)** analysis pipeline. This Jupyter Notebook serves as the computational supplementary material for the study *"Impact of generative AI on research integrity: Retraction behavior across countries and institutions"*.
+This repository contains the source code and documentation for the **World Research Integrity Ranking (WRIR)** analysis pipeline. This Jupyter Notebook serves as the computational supplementary material for the study *"Impact of generative AI on research integrity: Retraction behavior across countries and institutions"*.
 
 The pipeline ingests retraction data, enriches it with institutional metadata via the OpenAlex API, and performs a fractional attribution analysis to quantify the distribution of research misconduct across countries and institutions.
 
